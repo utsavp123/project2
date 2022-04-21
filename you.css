@@ -1,0 +1,32 @@
+#navbar{
+    flex-direction: column;
+    overflow: hidden;
+}
+#home{
+  
+    padding: 0px 60px;
+    /* position: relative; */
+  
+}
+nav ul li a{
+    font-size: 1rem;
+}
+#services {
+    flex-wrap: wrap
+}
+
+
+#achi {
+    
+    flex-wrap: wrap
+}
+#home p{
+    padding: 3px;
+    font-size:.8rem;
+    
+}
+.h1-primary{
+    
+    font-size: 1.6rem;
+    
+}
