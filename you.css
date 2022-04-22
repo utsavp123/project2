@@ -30,3 +30,6 @@ nav ul li a{
     font-size: 1.6rem;
     
 }
+#contact-box form {
+    width: 70%;
+}
